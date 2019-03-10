@@ -12,8 +12,8 @@ In this repository we have:-
     - **[redis.json](./Scripts/redis.json)**:- This is a json file in which we have to define our connection details of Redis. I created this file because I believe that code should not be changed.
 
 - **Results**:- This is a directory in which I am dumping some of my test results.
-    - **[redis_get_1000_users_stats.md](./Results/markdownResults/redis_get_1000_users_stats.md)**:- This is a test result of *GET* operation with 1000 users.
-    - **[redis_get_set_100_users_stats.md](./Results/markdownResults/redis_get_set_100_users_stats.md)**:- This is a test result of *GET* and *SET* operation simultaneously with 100 users.
+    - **[redis_get_1000_users_stats.md](./Results/mardownResults/redis_get_1000_users_stats.md)**:- This is a test result of *GET* operation with 1000 users.
+    - **[redis_get_set_100_users_stats.md](./Results/mardownResults/redis_get_set_100_users_stats.md)**:- This is a test result of *GET* and *SET* operation simultaneously with 100 users.
 
 ## Requirments
 
